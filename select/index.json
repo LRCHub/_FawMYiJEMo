@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "#1090 ～Million Dreams～",
+  "base_artist": "松本孝弘",
+  "createdAt": "2026-03-26T16:16:07.668756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "#1090 ~Thousand Dreams~",
+      "artist": "Tak Matsumoto",
+      "has_synced": false,
+      "path": "select/01_1090_~Thousand_Dreams~_Tak_Matsumoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "#1090 ~Thousand Dreams~",
+      "artist": "松本孝弘",
+      "has_synced": false,
+      "path": "select/02_1090_~Thousand_Dreams~_松本孝弘.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TCardi (feat. Dougie B, Lil Skrap 1090 & Justo B)",
+      "artist": "Kay Flock feat. Dougie B, Lil Skrap 1090 & Justo B",
+      "has_synced": true,
+      "path": "select/03_TCardi_(feat._Dougie_B,_Lil_Skrap_1090_&_Justo_B)_Kay_Flock_feat._Dougie_B,_Lil_Skrap_1090_&_Justo_B.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TCardi (feat. Dougie B, Lil Skrap 1090 & Justo B)",
+      "artist": "Kay Flock; Dougie B; Lil Skrap 1090; Justo B",
+      "has_synced": true,
+      "path": "select/04_TCardi_(feat._Dougie_B,_Lil_Skrap_1090_&_Justo_B)_Kay_Flock;_Dougie_B;_Lil_Skrap_1090;_Justo_B.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TCardi (feat. Lil Skrap 1090 & Justo B)",
+      "artist": "Kay Flock & Dougie B",
+      "has_synced": true,
+      "path": "select/05_TCardi_(feat._Lil_Skrap_1090_&_Justo_B)_Kay_Flock_&_Dougie_B.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TCardi (feat. Dougie B, Justo B & Lil Skrap 1090)",
+      "artist": "Kay Flock",
+      "has_synced": true,
+      "path": "select/06_TCardi_(feat._Dougie_B,_Justo_B_&_Lil_Skrap_1090)_Kay_Flock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TCardi (feat. Dougie B, Lil Skrap 1090 & Justo B)",
+      "artist": "Kay Flock",
+      "has_synced": true,
+      "path": "select/07_TCardi_(feat._Dougie_B,_Lil_Skrap_1090_&_Justo_B)_Kay_Flock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TCardi (feat. Lil Skrap 1090 & Justo B)",
+      "artist": "Kay Flock",
+      "has_synced": true,
+      "path": "select/08_TCardi_(feat._Lil_Skrap_1090_&_Justo_B)_Kay_Flock.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1090. Keane - Sovereign Light Cafe",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/09_1090._Keane_-_Sovereign_Light_Cafe_VA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TCardi (feat. Dougie B, Lil Skrap 1090",
+      "artist": "Kay Flock",
+      "has_synced": true,
+      "path": "select/10_TCardi_(feat._Dougie_B,_Lil_Skrap_1090_Kay_Flock.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Name (&#1080;&#1084;&#1103; &#1090;&#1074;&#1086;&#1105;)",
+      "artist": "Kedr Livanskiy",
+      "has_synced": true,
+      "path": "select/11_Your_Name_(&_1080;&_1084;&_1103;_&_1090;&_1074;&_1086;&_1105;)_Kedr_Livanskiy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TCardi (feat. Dougie B, Lil Skrap 1090 & Justo B) (Paused)",
+      "artist": "Kay Flock",
+      "has_synced": true,
+      "path": "select/12_TCardi_(feat._Dougie_B,_Lil_Skrap_1090_&_Justo_B)_(Paused)_Kay_Flock.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TCardi (feat. Lil Skrap 1090, Justo B & Dougie B)",
+      "artist": "Kay Flock",
+      "has_synced": true,
+      "path": "select/13_TCardi_(feat._Lil_Skrap_1090,_Justo_B_&_Dougie_B)_Kay_Flock.lrc"
+    }
+  ]
+}
